@@ -7,6 +7,7 @@ Technology: Built using Flutter for mobile development; image processing will be
 Status: Currently in the initial development phase, focusing on building the app structure.
 
 🛠️ Technologies Used
+
 This project utilizes the following tools and technologies:
 
 Flutter - Mobile app development framework.
